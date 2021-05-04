@@ -1,2 +1,2 @@
-# cifrador_cesar-zenit-polar
-Um simples cifrador/decifrador de criptografias antigas (César, Zenit Polar e Vinegère)
+# encryptor_cesar-zenit-vinegere
+A simple encryption/decryption of old encryptions (Caesar, Zenit Polar and Vinegère)
